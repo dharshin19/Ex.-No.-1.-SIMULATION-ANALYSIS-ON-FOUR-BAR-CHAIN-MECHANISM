@@ -59,7 +59,7 @@
 
 
 ### Name:DHARSHIN M
-### Register Number: 25018496
+### Register Number: 212225240033
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
